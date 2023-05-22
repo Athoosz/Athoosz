@@ -2,13 +2,11 @@
 - 🔭Estudante Ensino Médio Técnico
 - 📚 Designer e Programador
 
- ##
- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athoosz&layout=compact&theme=dark&langs_count=7"/>
- 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/athosmrfonseca?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/Athooss)
+
  
+
  ##
  
  >  ### Main Skills  💎
@@ -24,5 +22,8 @@
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
    
 </div>
+
+## 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athoosz&layout=compact&theme=dark&langs_count=7"/>
  
   
