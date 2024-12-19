@@ -13,6 +13,7 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="bootstrap-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+    <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
    </div>
    
  <div  align="left"> 
@@ -21,7 +22,6 @@
     <h2 align="left">🎲 Learning</h2>
       <br>
     <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-    <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
    </div>
 
  <div style="display: inline_block"><br>
