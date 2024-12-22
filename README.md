@@ -8,12 +8,12 @@
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h2 align="left">💎 Skills</h2>
     <br>
-    <img align="center" height="30" width="40" alt="c#-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="bootstrap-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
-    <img align="center" height="30" width="40" alt="mysql-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
-    <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+    <img align="center" height="30" width="40" alt="c#-icon" src="https://skillicons.dev/icons?i=cs">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://skillicons.dev/icons?i=html">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://skillicons.dev/icons?i=css">
+    <img align="center" height="30" width="40" alt="bootstrap-icon" src="https://skillicons.dev/icons?i=bootstrap">
+    <img align="center" height="30" width="40" alt="mysql-icon" src="https://skillicons.dev/icons?i=mysql">
+    <img align="center" height="30" width="40" alt="java-icon" src="https://skillicons.dev/icons?i=java">
    </div>
    
  <div  align="left"> 
@@ -21,14 +21,17 @@
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h2 align="left">🎲 Learning</h2>
       <br>
-    <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
+    <img align="center" height="30" width="40" alt="java-icon" src="https://skillicons.dev/icons?i=c">
+    <img align="center" height="30" width="40" alt="java-icon" src="https://skillicons.dev/icons?i=js">
+    <img align="center" height="30" width="40" alt="java-icon" src="https://skillicons.dev/icons?i=spring">
+    
    </div>
 
  <div style="display: inline_block"><br>
  <h2 align="left">🎬 Social Media</h2>
      <br>
     <a href = "https://www.linkedin.com/in/athosmrfonseca/">
-      <img align="center" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg">
+      <img align="center" width="30" src="https://skillicons.dev/icons?i=linkedin">
     </a>
     <a href = "https://www.behance.net/Athooss">
       <img align="center" width="30" src="behance-1.svg">
