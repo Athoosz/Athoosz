@@ -34,7 +34,7 @@
       <img align="center" width="30" src="https://skillicons.dev/icons?i=linkedin">
     </a>
     <a href = "https://www.behance.net/Athooss">
-      <img align="center" width="30" src="behance-1.svg">
+      <img align="center" width="30" src="img/behance-1.svg">
     </a>
 </div>
 
