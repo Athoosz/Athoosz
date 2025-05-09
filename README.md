@@ -3,7 +3,7 @@
 </p>
 
 ## 👨‍💻 Sobre Mim
-- 🍖 Meu nome é **Athos**, tenho 18 anos e sou natural de Minas Gerais, Brasil.  
+- 🍖 Meu nome é **Athos**, tenho 19 anos e sou natural de Minas Gerais, Brasil.  
 - 💻 Atualmente, estou cursando **Engenharia de Software** na PUC Minas.
 - 🥇 Atualmente, estou me especializando em linguagens de programação back-end, como Java e C#.
 - 🎨 Tenho experiência com projetos em Photoshop como hobby e no desenvolvimento de aplicações web durante meus estudos.
