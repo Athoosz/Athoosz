@@ -1,13 +1,6 @@
 <p align="center">
   <img src="img/logo.png" width="100" height="100" />
 </p>
-
-## 👨‍💻 Sobre Mim
-- 🍖 Meu nome é **Athos**, tenho 19 anos e sou natural de Minas Gerais, Brasil.  
-- 💻 Atualmente, estou cursando **Engenharia de Software** na PUC Minas.
-- 🥇 Atualmente, estou me especializando em linguagens de programação back-end, como Java e C#.
-- 🎨 Tenho experiência com projetos em Photoshop como hobby e no desenvolvimento de aplicações web durante meus estudos.
-
  <div  align="left"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
