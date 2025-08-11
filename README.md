@@ -9,9 +9,12 @@
     <img align="center" height="30" width="40" alt="c#-icon" src="https://skillicons.dev/icons?i=cs">
     <img align="center" height="30" width="40" alt="html-icon" src="https://skillicons.dev/icons?i=html">
     <img align="center" height="30" width="40" alt="css-icon" src="https://skillicons.dev/icons?i=css">
+    <img align="center" height="30" width="40" alt="js-icon" src="https://skillicons.dev/icons?i=js">
     <img align="center" height="30" width="40" alt="bootstrap-icon" src="https://skillicons.dev/icons?i=bootstrap">
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://skillicons.dev/icons?i=mysql">
     <img align="center" height="30" width="40" alt="java-icon" src="https://skillicons.dev/icons?i=java">
+    <img align="center" height="30" width="40" alt="spring-icon" src="https://skillicons.dev/icons?i=spring">
+    <img align="center" height="30" width="40" alt="tailwind-icon" src="https://skillicons.dev/icons?i=tailwind">
    </div>
    
  <div  align="left"> 
@@ -20,9 +23,6 @@
     <h2 align="left">🎲 Tecnologias que estou aprendendo</h2>
       <br>
     <img align="center" height="30" width="40" alt="c-icon" src="https://skillicons.dev/icons?i=c">
-    <img align="center" height="30" width="40" alt="js-icon" src="https://skillicons.dev/icons?i=js">
-    <img align="center" height="30" width="40" alt="spring-icon" src="https://skillicons.dev/icons?i=spring">
-    <img align="center" height="30" width="40" alt="tailwind-icon" src="https://skillicons.dev/icons?i=tailwind">
     <img align="center" height="30" width="40" alt="react-icon" src="https://skillicons.dev/icons?i=react">
     
    </div>
